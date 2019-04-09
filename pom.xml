@@ -7,4 +7,6 @@
       <groupId>es.panel.teach.days</groupId>
       <artifactId>cientouno</artifactId>
       <version>0.0.1-SNAPSHOT</version>
-    </project>
+    
+	<Description>Añado cosas para master</Description>
+	</project>
